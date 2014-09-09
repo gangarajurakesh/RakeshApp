@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2727122041">
+    <data-source source="LOCAL" name="Rails RakeshApp: development" uuid="49e85193-85e5-4d70-8375-183c3be6fee4">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/rakesh_sample_app</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RakeshApp: test" uuid="cd8d8419-4b6e-4ecb-bfe8-08debf131392">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/rakesh_sample_app</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails RakeshApp: production" uuid="8632e5ee-756e-456f-a41f-acfc417eb296">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/rakesh_sample_app</jdbc-url>
+      <user-name>postgres</user-name>
+      <user-password>dfdadfc5dfd9dfdedfcddfd8dfcfdfd9</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
